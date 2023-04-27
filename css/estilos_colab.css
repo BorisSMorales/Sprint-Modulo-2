@@ -1,0 +1,9 @@
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    background-color: rgba(72, 125, 122, 0.5); /* Cambia el color de fondo */
+    opacity: 1; /* Cambia la opacidad */
+}
+.carousel-control-prev-icon:hover,
+.carousel-control-next-icon:hover {
+    background-color: rgba(0,0,0,0.8); /* Cambia el color de fondo al pasar el mouse */
+}
